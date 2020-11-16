@@ -12,12 +12,12 @@ The Tamagotchi project is a simple game that demonstrates skill with HTML, CSS, 
 
 Resources:
 
-- pixilart.com (Used for images and animations)
-- loading.io (Used to create gif image)
-- audiotrimmer.com (Used to clip sound snippets)
-- bensound.com (Music)
-- orangefreesounds.com (Music)
-- freepik.com (Background vector)
+- [pixilart](https://www.pixilart.com) (Used for images and animations)
+- [loading.io](https://www.loading.io) (Used to create gif image)
+- [audiotrimmer](https://www.audiotrimmer.com) (Used to clip sound snippets)
+- [bensound](https://www.bensound.com) (Music)
+- [orangefreesounds](http://www.orangefreesounds.com) (Music)
+- [freepik](https://www.freepik.com) (Background vector)
 
 ## User Story
 
