@@ -33,19 +33,21 @@ Resources:
 
 Tamagotchi is born, and the user is presented with brief instructions.
 
-![image](./images/gamePlay/gotchi1.png =250x250) ![image](./images/gamePlay/gotchi2.png =250x250)
+![image](./images/gamePlay/gotchi1.png)
+
+![image](./images/gamePlay/gotchi2.png)
 
 ### Interact With Tamagotchi
 
 The user chooses from interactions options and affects Tamagotchi's stats.
 
-![image](./images/gamePlay/gotchi3.png =250x250)
-![image](./images/gamePlay/gotchi4.png =250x250)
-![image](./images/gamePlay/gotchi5.png =250x250)
+![image](./images/gamePlay/gotchi3.png)
+![image](./images/gamePlay/gotchi4.png)
+![image](./images/gamePlay/gotchi5.png)
 
 ### Tamagotchi Tells How It Feels
 
 Tamagotchi can communicate how they feel through body language and the narrative box. Tamagotchi will live as long as the user takes care of them.
 
-![image](./images/gamePlay/gotchi6.png =250x250)
-![image](./images/gamePlay/gotchi7.png =250x250)
+![image](./images/gamePlay/gotchi6.png)
+![image](./images/gamePlay/gotchi7.png)
